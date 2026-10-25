@@ -2,7 +2,6 @@
 
 > **Borrow anything, anytime. The secure, trustless peer-to-peer rental network designed exclusively for university campuses.**
 
-[![Project Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](https://github.com/)
 [![Django](https://img.shields.io/badge/Django-6.0.6-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![REST Framework](https://img.shields.io/badge/DRF-3.17.1-red?style=for-the-badge)](https://www.django-rest-framework.org/)
 [![Database](https://img.shields.io/badge/Database-PostgreSQL_/_SQLite-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
